@@ -1,0 +1,7 @@
+{
+  "name": "beatsexuell-dev",
+  "version": "1.0.0",
+  "description": "Claude Code workflow for audio plugin and music app development, based on Claude Academy (Claude Code 101): project CLAUDE.md, Explore → Plan → Code → Commit with DAW testing, code review, hooks, MCP, subagents and a DSP reviewer.",
+  "author": { "name": "beatsexuell", "email": "beatsexuell@gmail.com" },
+  "keywords": ["audio", "dsp", "juce", "rnbo", "workflow", "claude-code-101"]
+}

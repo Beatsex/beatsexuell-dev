@@ -1,0 +1,7 @@
+{
+  "name": "beatsexuell",
+  "owner": { "name": "beatsexuell", "email": "beatsexuell@gmail.com" },
+  "plugins": [
+    { "name": "beatsexuell-dev", "source": "./", "description": "Audio dev workflow skills based on Claude Code 101" }
+  ]
+}
